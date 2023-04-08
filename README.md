@@ -1,1 +1,1 @@
-My javascript playgroung
+My Javascript playground
